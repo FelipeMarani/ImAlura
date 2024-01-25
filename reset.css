@@ -1,0 +1,42 @@
+/* Reset CSS */
+
+/* Remover margens e preenchimentos padrão */
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+ol,
+li,
+dl,
+dt,
+dd {
+  margin: 0;
+  padding: 0;
+}
+
+/* Definir a fonte padrão e tamanho */
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+}
+
+/* Remover estilos de lista */
+ul,
+ol {
+  list-style: none;
+}
+
+/* Remover decoração de link */
+a {
+  text-decoration: none;
+}
+
+/* Definir a cor padrão do texto */
+body {
+  color: #333;
+}
