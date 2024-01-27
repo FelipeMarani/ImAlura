@@ -1,0 +1,46 @@
+{
+    "artists": [
+      {
+        "id": 1,
+        "name": "Kyan",
+        "genre": "Hip Hop",
+        "urlImg": "https://i.scdn.co/image/ab67616d0000b273f21913b26d0b6d2d97f4e580"
+      },
+      {
+        "id": 2,
+        "name": "Travis Scott",
+        "genre": "Trap",
+        "urlImg": "https://i.scdn.co/image/ab67706c0000da84011b9827559152b5deba6f28"
+      },
+      {
+        "id": 3,
+        "name": "Sid",
+        "genre": "Hip Hop",
+        "urlImg": "https://i.scdn.co/image/ab6761610000e5eb9d9ead44462109302eccb571"
+      },
+      {
+        "id": 4,
+        "name": "Eminem",
+        "genre": "Rap",
+        "urlImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv6hoT3DpRWIL8BOLDdgp9ePBrRXn9nMb8Yg&usqp=CAU"
+      },
+      {
+        "id": 5,
+        "name": "Haridade",
+        "genre": "Funk",
+        "urlImg": "https://thisis-images.scdn.co/37i9dQZF1DZ06evO0aGty0-default.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Arlindo Cruz",
+        "genre": "Samba",
+        "urlImg": "https://i.scdn.co/image/ab67616100005174181873f93056642d7b340839"
+      },
+      {
+        "id": 7,
+        "name": "Matuê",
+        "genre": "Trap",
+        "urlImg": "https://startupi.com.br/wp-content/uploads/2023/09/matue.webp"
+      }
+    ]
+  }
